@@ -9,7 +9,6 @@ let display=document.getElementById("sum-el")
 // Perform the given calculation using num1 and num2
 // Render the result of the calculation in the paragraph with id="sum-el"
 
-
 function add(){
     let sum= num1+num2
     display.textContent=sum
