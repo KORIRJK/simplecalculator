@@ -1,5 +1,5 @@
 let num1 = 5
-let num2 = 10
+let num2 = 8
 document.getElementById("num1-el").textContent = num1
 document.getElementById("num2-el").textContent = num2
 let display=document.getElementById("sum-el")
